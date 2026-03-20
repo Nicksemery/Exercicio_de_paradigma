@@ -10,8 +10,8 @@
 os códigos estão devidamente separados em 2 pastas diferentes.
 
 # Identificação do paradigma em cada código
-Na pasta "Lista_de_tarefas" encontra-se o código python do programa. Organizado e pensado no modo Imperativo.
-Enquanto na pasta "ListaDeTarefas" encontra-se o código java do programa. Organizado e pensado no modo Orientação a objetos.
+Na pasta "Lista_de_tarefas" encontra-se o código python do programa. Organizado e pensado no modo Imperativo. Feito em um unico bloco massivo de passos sequenciais para o programa seguir.
+Enquanto na pasta "ListaDeTarefas" encontra-se o código java do programa. Organizado e pensado no modo Orientação a objetos. Dividindo entre Main, com o codigo interativo que instancia o objeto e puxa seus metodos para serem utilizados a depender da escolha do usuario, e Tarefas que é a classe molde de objeto utilizado para o exercicio, bem simples com atributos, construtor e metodos claros.
 
 # Comparação entre as abordagens
 o primeiro ponto a destacar, apesar de não entrar muito nos tipos de paradigmas mas apenas um conflito de sintax, foi a diferença discrepante em fazer a aplicação rodar infinitameente com a manipulação e vontade do usuario. enquanto no java eu precisei de apenas 1 while, no python utilizei 3.
